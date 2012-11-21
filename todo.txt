@@ -1,1 +1,2 @@
 1. learn how to use git
+2. second item to learn.
