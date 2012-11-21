@@ -1,0 +1,6 @@
+.ds_store
+tmp
+*.swp~
+test/*.txt
+test
+!test/demo.txt
