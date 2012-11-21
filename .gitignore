@@ -1,5 +1,2 @@
 .ds_store
 tmp
-*.swp~
-test/*.txt
-!test/demo.txt
