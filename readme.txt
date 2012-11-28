@@ -4,3 +4,5 @@ thi is another line
 
 
 all rights reserved.
+
+copyright some company.
